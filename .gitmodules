@@ -1,0 +1,3 @@
+[submodule "models/GNNDelete"]
+	path = models/GNNDelete
+	url = https://github.com/g-abhi/GNNDelete
